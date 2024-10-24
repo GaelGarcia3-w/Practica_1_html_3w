@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+
+<h1>Practica #1</h1> <!--El numero de la practica que se esta realizando-->
+
+<h2 style="color: darkred;">Python / Django.</h2><!--El titulo de la pagina-->
+
+<p style="color: darkcyan;">Garcia Camacho Edgar Gael.</p><!--Nombre del programador-->
+<br>
+<p1 style="color:goldenrod;">Numero de control #1182</p1><!--El numero de control-->
+<br>
+<br>
+<a href ="https://www.google.com.mx/?hl=es" > Los mejores pollos.</a><!--Link de la pagina-->
+<br>
+</body>
+
+</html>
+<!--Edgar Gael Garcia Camacho 3-w-->
